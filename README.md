@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi
+👋 哈罗，我叫 Goohugo🤣，目前工作生活在宁国，是一名后端工程师 👨🏻‍💻（C# ☕️）
+
+❤️ 我喜欢：跑步 🏃🏻，读书 📖，追剧 🎬
+
+🔭 我目前正在学习一名新的语言: Python()
+
+💬 你可以和我讨论：运动 🏃🏻‍♂️，电影 📺，数码产品 📱，读书 📚
+
+📮 我的邮箱：haoz0x139@gmail.com
+
+🏠 我的博客：https://blog.1016913.xyz
+
+☎️ 我的 Telegram：@haozOx
+
+🐧 我的 Twitter：@haozOx
+
+如果你有什么想和我交流的，欢迎和我联系 💬
