@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ❤️ 我喜欢：跑步🏃🏻，读书📖，追剧🎬
 
-🔭 我目前正在学习一名新的语言: Python
+🔭 我目前正在学习一个新的语言: Python
 
 💬 你可以和我讨论：编程问题🐵，电影📺，数码产品 📱，读书 📚
 
