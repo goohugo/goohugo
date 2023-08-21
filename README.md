@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 📮 我的邮箱：dotneteye@qq.com
 
-🏠 我的博客：https://blog.1016913.xyz
+🏠 我的博客：[goohugo.eu.org](https://goohugo.eu.org/)
 
 如果你有什么想和我交流的，欢迎和我联系 💬
