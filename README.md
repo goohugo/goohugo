@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi，我叫 Goohugo🤣，目前工作生活在皖南小城宁国，是一名后端工程师 👨🏻‍💻（C# ☕️）
+👋 Hi，我叫 Goohugo🤣，目前工作生活在皖南小城的一名后端工程师 👨🏻‍💻（C# ☕️）
 
 ❤️ 我喜欢：健步🏃🏻，阅读📖，追剧🎬
 
