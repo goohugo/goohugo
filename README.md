@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi，我叫 Goohugo🤣，目前工作生活在皖南小城的一名后端工程师 👨🏻‍💻（C# ☕️）
+👋 Hi，我叫 Goohugo🤣，是一名后端工程师 👨🏻‍💻（C# ☕️）
 
 ❤️ 我喜欢：健步🏃🏻，阅读📖，追剧🎬
 
 🔭 我目前正在学习一个新的语言: Python
 
 💬 你可以和我讨论：编程问题🐵，电影📺，数码产品 📱，读书 📚
-
-📮 我的邮箱：haoz0x@outlook.com
 
 🏠 我的博客：[goohugo.eu.org](https://goohugo.eu.org/)
 
