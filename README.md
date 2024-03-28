@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 💬 你可以和我讨论：编程问题🐵，电影📺，数码产品 📱，读书 📚
 
-🏠 我的博客：[goohugo.blog]([https://goohugo.github.io/])
+🏠 我的博客：[goohugo.blog](https://goohugo.github.io/)
 
 如果你有什么想和我交流的，欢迎和我联系 💬
