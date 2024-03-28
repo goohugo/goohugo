@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 我目前正在学习一个新的语言: ASP.NET Core
 -->
 
 
@@ -18,9 +19,7 @@ Here are some ideas to get you started:
 
 ❤️ 我喜欢：健步🏃🏻，阅读📖，追剧🎬
 
-🔭 我目前正在学习一个新的语言: Python
-
-💬 你可以和我讨论：编程问题🐵，电影📺，数码产品 📱，读书 📚
+💬 你可以和我讨论：编程问题🐵，电影📺，数码产品 📱，书籍 📚
 
 🏠 我的博客：[goohugo.blog](https://goohugo.github.io/)
 
