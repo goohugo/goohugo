@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi，我叫 Goohugo🤣，是一名后端工程师 👨🏻‍💻（C# ☕️）
+👋 Hi，我叫 Goohugo🤣，是一名后端工程师 👨🏻‍💻（.NET ☕️）
 
 ❤️ 我喜欢：健步🏃🏻，阅读📖，追剧🎬
 
